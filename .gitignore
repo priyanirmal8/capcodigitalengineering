@@ -1,0 +1,9 @@
+
+gradle/
+test-output/
+*.gradle
+*.jar
+*.bat
+*.yml
+*.cmd
+
