@@ -5,7 +5,7 @@
     <classes>
       <class name="hello.IntegrationTests">
         <methods>
-          <include name="testRepository"/>
+          <include name="testStatus"/>
         </methods>
       </class> <!-- hello.IntegrationTests -->
     </classes>
