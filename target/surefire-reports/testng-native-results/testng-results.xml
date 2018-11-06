@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="1028" started-at="2018-11-05T16:04:47Z" finished-at="2018-11-05T16:04:48Z">
+  <suite name="Surefire suite" duration-ms="1225" started-at="2018-11-06T09:23:51Z" finished-at="2018-11-06T09:23:52Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="1028" started-at="2018-11-05T16:04:47Z" finished-at="2018-11-05T16:04:48Z">
+    <test name="Surefire test" duration-ms="1225" started-at="2018-11-06T09:23:51Z" finished-at="2018-11-06T09:23:52Z">
       <class name="hello.CustomerTests">
-        <test-method status="PASS" signature="testCustomer()[pri:0, instance:hello.CustomerTests@7f9a81e8]" name="testCustomer" duration-ms="2" started-at="2018-11-05T16:04:48Z" finished-at="2018-11-05T16:04:48Z">
+        <test-method status="PASS" signature="testCustomer()[pri:0, instance:hello.CustomerTests@7f9a81e8]" name="testCustomer" duration-ms="2" started-at="2018-11-06T09:23:52Z" finished-at="2018-11-06T09:23:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCustomer -->
       </class> <!-- hello.CustomerTests -->
       <class name="hello.IntegrationTests">
-        <test-method status="FAIL" signature="testStatus()[pri:0, instance:hello.IntegrationTests@51565ec2]" name="testStatus" duration-ms="1013" started-at="2018-11-05T16:04:47Z" finished-at="2018-11-05T16:04:48Z">
+        <test-method status="FAIL" signature="testStatus()[pri:0, instance:hello.IntegrationTests@51565ec2]" name="testStatus" duration-ms="1207" started-at="2018-11-06T09:23:51Z" finished-at="2018-11-06T09:23:52Z">
           <exception class="java.net.ConnectException">
             <message>
               <![CDATA[Connection refused (Connection refused)]]>

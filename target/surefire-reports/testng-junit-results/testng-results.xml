@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="2" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="3993" started-at="2018-11-05T16:04:48Z" finished-at="2018-11-05T16:04:52Z">
+  <suite name="Surefire suite" duration-ms="4340" started-at="2018-11-06T09:23:52Z" finished-at="2018-11-06T09:23:57Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="3993" started-at="2018-11-05T16:04:48Z" finished-at="2018-11-05T16:04:52Z">
+    <test name="Surefire test" duration-ms="4340" started-at="2018-11-06T09:23:52Z" finished-at="2018-11-06T09:23:57Z">
       <class name="hello.GreetingControllerTests">
-        <test-method status="FAIL" signature="noParamGreetingShouldReturnDefaultMessage()[pri:0, instance:noParamGreetingShouldReturnDefaultMessage(hello.GreetingControllerTests)]" name="noParamGreetingShouldReturnDefaultMessage" duration-ms="103" started-at="2018-11-05T16:04:52Z" finished-at="2018-11-05T16:04:52Z">
+        <test-method status="FAIL" signature="noParamGreetingShouldReturnDefaultMessage()[pri:0, instance:noParamGreetingShouldReturnDefaultMessage(hello.GreetingControllerTests)]" name="noParamGreetingShouldReturnDefaultMessage" duration-ms="140" started-at="2018-11-06T09:23:57Z" finished-at="2018-11-06T09:23:57Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Status expected:<200> but was:<404>]]>
@@ -75,7 +75,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noParamGreetingShouldReturnDefaultMessage -->
-        <test-method status="FAIL" signature="paramGreetingShouldReturnTailoredMessage()[pri:0, instance:paramGreetingShouldReturnTailoredMessage(hello.GreetingControllerTests)]" name="paramGreetingShouldReturnTailoredMessage" duration-ms="6" started-at="2018-11-05T16:04:52Z" finished-at="2018-11-05T16:04:52Z">
+        <test-method status="FAIL" signature="paramGreetingShouldReturnTailoredMessage()[pri:0, instance:paramGreetingShouldReturnTailoredMessage(hello.GreetingControllerTests)]" name="paramGreetingShouldReturnTailoredMessage" duration-ms="6" started-at="2018-11-06T09:23:57Z" finished-at="2018-11-06T09:23:57Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Status expected:<200> but was:<404>]]>
